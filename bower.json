@@ -4,8 +4,8 @@
   "author": "Thomas Park",
   "homepage": "http://bootswatch.com",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/thomaspark/bootswatch.git"
+    "type": "https",
+    "url": "https://github.com/wecode-today/bootswatch.git"
   },
   "license": "MIT",
   "ignore": [
